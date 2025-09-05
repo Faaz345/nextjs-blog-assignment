@@ -1,0 +1,26 @@
+[
+  {
+    "id": "auth_10x6r",
+    "name": "Alice Chen",
+    "bio": "Full-stack developer and tech blogger with expertise in React, Node.js, and cloud architecture."
+  },
+  {
+    "id": "auth_10x7s",
+    "name": "Marcus Johnson",
+    "bio": "Product designer turned developer, passionate about user experience and accessibility."
+  },
+  {
+    "id": "auth_10x8t",
+    "name": "Sarah Kim",
+    "bio": "DevOps engineer specializing in Kubernetes, CI/CD pipelines, and infrastructure automation."
+  },
+  {
+    "id": "auth_10x9u",
+    "name": "David Rodriguez",
+    "bio": "Data scientist and machine learning enthusiast exploring the intersection of AI and web development."
+  },
+  {
+    "id": "auth_mf2mv266_708rtt",
+    "name": "faaz"
+  }
+]

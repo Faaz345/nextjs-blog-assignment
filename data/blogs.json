@@ -1,0 +1,209 @@
+[
+  {
+    "id": "blog_10x1a",
+    "slug": "getting-started-with-next-js",
+    "title": "Getting Started with Next.js",
+    "imageUrl": "https://picsum.photos/800/400?random=1",
+    "content": "Next.js is a powerful React framework that makes building full-stack web applications incredibly straightforward. Whether you're creating a simple static site or a complex server-rendered application, Next.js provides the tools and conventions you need.\n\nIn this comprehensive guide, we'll walk through the fundamentals of Next.js, from installation to deployment. You'll learn about file-based routing, server-side rendering, static site generation, and API routes.\n\nLet's start by creating a new Next.js project using the command line. Run 'npx create-next-app@latest my-app' to scaffold a new application with all the necessary dependencies and configuration files.",
+    "categoryIds": [
+      "cat_10x1m",
+      "cat_10x3o"
+    ],
+    "tagIds": [
+      "tag_10x1a",
+      "tag_10x3c"
+    ],
+    "authorId": "auth_10x6r",
+    "createdAt": "2025-08-25T10:00:00.000Z"
+  },
+  {
+    "id": "blog_10x2b",
+    "slug": "mastering-react-hooks",
+    "title": "Mastering React Hooks",
+    "imageUrl": "https://picsum.photos/800/400?random=2",
+    "content": "React Hooks revolutionized how we write React components by allowing us to use state and other React features in functional components. This guide covers everything from basic hooks like useState and useEffect to advanced patterns with useReducer and custom hooks.\n\nHooks follow specific rules that ensure your components behave predictably. The most important rules are: only call hooks at the top level of your React function, and only call hooks from React functions.\n\nWe'll explore practical examples of building custom hooks for common patterns like data fetching, form handling, and local storage integration.",
+    "categoryIds": [
+      "cat_10x1m",
+      "cat_10x3o"
+    ],
+    "tagIds": [
+      "tag_10x1a",
+      "tag_10x4d"
+    ],
+    "authorId": "auth_10x6r",
+    "createdAt": "2025-08-20T14:30:00.000Z"
+  },
+  {
+    "id": "blog_10x3c",
+    "slug": "javascript-performance-optimization",
+    "title": "JavaScript Performance Optimization",
+    "imageUrl": "https://picsum.photos/800/400?random=3",
+    "content": "Performance optimization is crucial for creating smooth user experiences. In this article, we'll explore various techniques to optimize JavaScript performance, from basic best practices to advanced optimization strategies.\n\nKey areas we'll cover include memory management, efficient DOM manipulation, debouncing and throttling, lazy loading, and code splitting. Understanding these concepts will help you build faster, more responsive web applications.\n\nWe'll also discuss profiling tools and techniques to identify performance bottlenecks in your applications, ensuring you can measure the impact of your optimizations.",
+    "categoryIds": [
+      "cat_10x1m",
+      "cat_10x2n"
+    ],
+    "tagIds": [
+      "tag_10x2b",
+      "tag_10x5e",
+      "tag_10x4d"
+    ],
+    "authorId": "auth_10x7s",
+    "createdAt": "2025-08-18T09:15:00.000Z"
+  },
+  {
+    "id": "blog_10x4d",
+    "slug": "building-responsive-layouts",
+    "title": "Building Responsive Layouts",
+    "imageUrl": "https://picsum.photos/800/400?random=4",
+    "content": "Creating responsive layouts that work seamlessly across all device sizes is a fundamental skill for modern web developers. This guide covers CSS Grid, Flexbox, and responsive design patterns that ensure your sites look great everywhere.\n\nWe'll explore mobile-first design principles, breakpoint strategies, and progressive enhancement techniques. You'll learn how to create fluid grids, flexible images, and adaptive typography that scales beautifully.\n\nPractical examples include building common layout patterns like cards, navigation menus, and dashboard interfaces that adapt to different screen sizes without compromising usability or aesthetics.",
+    "categoryIds": [
+      "cat_10x1m",
+      "cat_10x6r"
+    ],
+    "tagIds": [
+      "tag_10x1a",
+      "tag_10x2b"
+    ],
+    "authorId": "auth_10x7s",
+    "createdAt": "2025-08-15T16:45:00.000Z"
+  },
+  {
+    "id": "blog_10x5e",
+    "slug": "node-js-api-development",
+    "title": "Node.js API Development",
+    "imageUrl": "https://picsum.photos/800/400?random=5",
+    "content": "Building robust APIs with Node.js requires understanding both the technical implementation and architectural best practices. This comprehensive guide covers everything from setting up your first Express server to implementing authentication, validation, and error handling.\n\nWe'll explore RESTful API design principles, middleware patterns, and database integration with both SQL and NoSQL databases. Security considerations including rate limiting, input sanitization, and authentication strategies are covered in detail.\n\nAdvanced topics include API versioning, documentation with OpenAPI/Swagger, testing strategies, and deployment considerations for production environments.",
+    "categoryIds": [
+      "cat_10x1m",
+      "cat_10x4p"
+    ],
+    "tagIds": [
+      "tag_10x1a",
+      "tag_10x2b",
+      "tag_10x4d"
+    ],
+    "authorId": "auth_10x6r",
+    "createdAt": "2025-08-12T11:20:00.000Z"
+  },
+  {
+    "id": "blog_10x6f",
+    "slug": "docker-containerization-guide",
+    "title": "Docker Containerization Guide",
+    "imageUrl": "https://picsum.photos/800/400?random=6",
+    "content": "Docker has transformed how we develop, deploy, and scale applications. This guide provides a practical introduction to containerization, from writing your first Dockerfile to orchestrating multi-container applications with Docker Compose.\n\nWe'll cover container fundamentals, image optimization techniques, and best practices for creating efficient, secure containers. You'll learn how to containerize different types of applications including web servers, databases, and microservices.\n\nAdvanced topics include multi-stage builds, health checks, volume management, and networking between containers. We'll also explore deployment strategies and integration with CI/CD pipelines.",
+    "categoryIds": [
+      "cat_10x5q"
+    ],
+    "tagIds": [
+      "tag_10x1a",
+      "tag_10x7g",
+      "tag_10x4d"
+    ],
+    "authorId": "auth_10x8t",
+    "createdAt": "2025-08-10T13:00:00.000Z"
+  },
+  {
+    "id": "blog_10x7g",
+    "slug": "typescript-best-practices",
+    "title": "TypeScript Best Practices",
+    "imageUrl": "https://picsum.photos/800/400?random=7",
+    "content": "TypeScript brings static type checking to JavaScript, helping developers catch errors early and build more maintainable applications. This guide covers essential TypeScript concepts and best practices for writing clean, type-safe code.\n\nWe'll explore type definitions, interfaces, generics, and advanced type manipulation techniques. Learn how to effectively use TypeScript with popular frameworks like React, Express, and Next.js.\n\nConfiguration best practices include setting up strict mode, configuring path mapping, and integrating TypeScript with build tools and linters. We'll also cover migration strategies for existing JavaScript projects.",
+    "categoryIds": [
+      "cat_10x1m",
+      "cat_10x2n"
+    ],
+    "tagIds": [
+      "tag_10x2b",
+      "tag_10x8h",
+      "tag_10x4d"
+    ],
+    "authorId": "auth_10x6r",
+    "createdAt": "2025-08-08T08:30:00.000Z"
+  },
+  {
+    "id": "blog_10x8h",
+    "slug": "database-design-fundamentals",
+    "title": "Database Design Fundamentals",
+    "imageUrl": "https://picsum.photos/800/400?random=8",
+    "content": "Effective database design is crucial for building scalable and maintainable applications. This guide covers fundamental concepts including normalization, indexing, and relationship modeling for both relational and NoSQL databases.\n\nWe'll explore entity-relationship diagrams, data modeling techniques, and query optimization strategies. Learn how to design schemas that perform well under load while maintaining data integrity and consistency.\n\nPractical examples include designing databases for e-commerce applications, content management systems, and user management systems. We'll also discuss migration strategies and database versioning.",
+    "categoryIds": [
+      "cat_10x1m"
+    ],
+    "tagIds": [
+      "tag_10x2b",
+      "tag_10x9i",
+      "tag_10x4d"
+    ],
+    "authorId": "auth_10x9u",
+    "createdAt": "2025-08-05T15:45:00.000Z"
+  },
+  {
+    "id": "blog_10x9i",
+    "slug": "web-security-essentials",
+    "title": "Web Security Essentials",
+    "imageUrl": "https://picsum.photos/800/400?random=9",
+    "content": "Web security is not optional in today's digital landscape. This comprehensive guide covers essential security practices every web developer should implement, from input validation to secure authentication systems.\n\nWe'll explore common vulnerabilities including XSS, CSRF, SQL injection, and how to prevent them. Learn about secure coding practices, security headers, and implementing proper authentication and authorization systems.\n\nAdvanced topics include security testing methodologies, penetration testing basics, and staying up-to-date with emerging security threats. We'll also cover compliance considerations and security audit processes.",
+    "categoryIds": [
+      "cat_10x1m"
+    ],
+    "tagIds": [
+      "tag_10x2b",
+      "tag_10x10j",
+      "tag_10x4d"
+    ],
+    "authorId": "auth_10x8t",
+    "createdAt": "2025-08-02T12:15:00.000Z"
+  },
+  {
+    "id": "blog_10x10j",
+    "slug": "testing-react-applications",
+    "title": "Testing React Applications",
+    "imageUrl": "https://picsum.photos/800/400?random=10",
+    "content": "Testing is an integral part of building reliable React applications. This guide covers testing strategies from unit tests to end-to-end testing, using popular tools like Jest, React Testing Library, and Cypress.\n\nWe'll explore different types of tests including component testing, integration testing, and snapshot testing. Learn how to test hooks, context providers, and components with complex state management.\n\nBest practices include writing maintainable test suites, mocking external dependencies, and setting up continuous integration pipelines that run your tests automatically on every code change.",
+    "categoryIds": [
+      "cat_10x1m",
+      "cat_10x3o"
+    ],
+    "tagIds": [
+      "tag_10x2b",
+      "tag_10x6f",
+      "tag_10x4d"
+    ],
+    "authorId": "auth_10x7s",
+    "createdAt": "2025-07-30T10:30:00.000Z"
+  },
+  {
+    "id": "blog_10x11k",
+    "slug": "kubernetes-deployment-strategies",
+    "title": "Kubernetes Deployment Strategies",
+    "imageUrl": "https://picsum.photos/800/400?random=11",
+    "content": "Kubernetes has become the de facto standard for container orchestration. This guide covers deployment strategies, service management, and scaling applications in Kubernetes clusters.\n\nWe'll explore different deployment patterns including rolling updates, blue-green deployments, and canary releases. Learn how to configure services, ingress controllers, and persistent storage for your applications.\n\nAdvanced topics include monitoring and logging, security best practices, and troubleshooting common issues. We'll also cover cost optimization strategies and multi-cluster management techniques.",
+    "categoryIds": [
+      "cat_10x5q"
+    ],
+    "tagIds": [
+      "tag_10x7g",
+      "tag_10x4d",
+      "tag_10x2b"
+    ],
+    "authorId": "auth_10x8t",
+    "createdAt": "2025-07-28T14:00:00.000Z"
+  },
+  {
+    "id": "blog_10x12l",
+    "slug": "user-experience-design-principles",
+    "title": "User Experience Design Principles",
+    "imageUrl": "https://picsum.photos/800/400?random=12",
+    "content": "Great user experience design is about understanding your users and creating interfaces that are intuitive, accessible, and delightful to use. This guide covers fundamental UX principles and practical design strategies.\n\nWe'll explore user research methods, persona development, and user journey mapping. Learn how to create wireframes and prototypes that effectively communicate design ideas and test usability assumptions.\n\nAccessibility considerations are woven throughout, ensuring your designs work for users with diverse abilities. We'll also cover design systems, component libraries, and collaboration between design and development teams.",
+    "categoryIds": [
+      "cat_10x6r"
+    ],
+    "tagIds": [
+      "tag_10x2b",
+      "tag_10x1a"
+    ],
+    "authorId": "auth_10x7s",
+    "createdAt": "2025-07-25T09:45:00.000Z"
+  }
+]

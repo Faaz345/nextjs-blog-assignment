@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tag_10x1a",
+    "name": "tutorial"
+  },
+  {
+    "id": "tag_10x2b",
+    "name": "best-practices"
+  },
+  {
+    "id": "tag_10x3c",
+    "name": "beginner"
+  },
+  {
+    "id": "tag_10x4d",
+    "name": "advanced"
+  },
+  {
+    "id": "tag_10x5e",
+    "name": "performance"
+  },
+  {
+    "id": "tag_10x6f",
+    "name": "testing"
+  },
+  {
+    "id": "tag_10x7g",
+    "name": "deployment"
+  },
+  {
+    "id": "tag_10x8h",
+    "name": "typescript"
+  },
+  {
+    "id": "tag_10x9i",
+    "name": "database"
+  },
+  {
+    "id": "tag_10x10j",
+    "name": "security"
+  }
+]
